@@ -1,0 +1,15 @@
+.footerMain {
+    display: flex;
+    margin-top: 200px;
+}
+
+.footerMenu {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-left: 3%;
+}
+
+.copyRight {
+    padding-left: 24%;
+}

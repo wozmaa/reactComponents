@@ -1,0 +1,23 @@
+
+body{
+    width: 770px;
+    margin: 0 auto;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  line-height: 0px;
+  
+}
+
+.headerMenu {
+  display: flex;
+  justify-content: space-between;
+  width: 40%;
+  font-size: 24px;
+}
+
+.menuText {
+    color: #003399;
+}
